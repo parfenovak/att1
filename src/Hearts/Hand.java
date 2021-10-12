@@ -3,9 +3,6 @@ package Hearts;
 import javafx.scene.layout.GridPane;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * Class that represents a sorted hand of 13 cards
  */
 
