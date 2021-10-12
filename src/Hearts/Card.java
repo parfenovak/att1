@@ -11,9 +11,6 @@ import javafx.scene.text.TextAlignment;
 import javafx.scene.transform.Rotate;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * A class that represents a card in a regular deck of 52 cards
  */
 
