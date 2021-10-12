@@ -3,9 +3,6 @@ package Hearts;
 import javafx.scene.layout.GridPane;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * Controller for the GUI
  * Responds to user input
  */
