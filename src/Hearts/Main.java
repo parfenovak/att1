@@ -9,9 +9,6 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * The start of the javaFX application
  */
 
