@@ -1,9 +1,6 @@
 package Hearts;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * A hash that provides an index from 0 to 51
  * Sorts by rank and suit (Clubs, Diamonds, Spades, Hearts)
  */
