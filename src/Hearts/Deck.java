@@ -5,9 +5,6 @@ import java.util.Arrays;
 import java.util.Random;
 
 /**
- * Created by Julia Connelly
- * June 2016
- *
  * A class that represents a regular deck of 52 cards
  */
 
